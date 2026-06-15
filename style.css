@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Libertinus+Mono&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+
+  background-color: #74abed;
+  Color: white;
+  Text-align: center;
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+
+}	
+
+
+body {
+
+  max-Width: 1000px;
+  Margin: auto;
+  font-family: "Libertinus Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+Nav li {
+
+  list-style-type: none;
+  Display: inline-block;
+  Background-color: #1a237e;
+  Color: white;
+  Padding: 5px 15px 5px;
+  Margin: 5px;
+  Width: 27%;
+  Text-align: center;
+}
+
+Nav li:hover, Nav li:hover a {
+
+  Background-color: #7D681A;
+  Color: #1A237D;
+  Text-decoration: none;
+
+}
+
+Nav a {
+
+  Color: white;
+  Text-decoration: none;
+  Font-size: 20px;
+
+}
+
+Nav {
+
+  max-Width: 1000px;
+  Margin: auto;
+  font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+  
+}
+
+img { 
+
+  max-width: 700px; 
+  margin: auto;
+  display: block;
+
+}
